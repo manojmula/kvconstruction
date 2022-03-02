@@ -1,0 +1,9 @@
+/* Nav Bar */
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar-brand{
+    padding-left: 2rem;
+    font-size: 2rem;
+}
