@@ -7,3 +7,16 @@
     padding-left: 2rem;
     font-size: 2rem;
 }
+
+#element-one{
+    height: 100%;
+    padding: 10%;
+}
+#construction_building_image{
+    height: 40%;
+    width : 60%
+}
+.float-child{
+    float: left;
+    width: 50%;
+}
